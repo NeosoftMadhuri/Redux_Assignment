@@ -1,0 +1,84 @@
+{
+    "product":[
+        {
+            "Pro_id":1,
+            "pname":"Activa",
+            "price":"40,000",
+            "quantity":1,
+            "image":"activa.jpeg"
+
+        },
+        {
+            "Pro_id":2,
+            "pname":"Bajaj Pulsur",
+            "price":"50,000",
+            "quantity":1,
+            "image":"ktm bike.jpg"
+
+        },
+        {
+            "Pro_id":3,
+            "pname":"Bajaj Scooter",
+            "price":"60,000",
+            "quantity":1,
+            "image":"Bajaj scooter.jpg"
+
+        },
+        {
+            "Pro_id":4,
+            "pname":"Honda",
+            "price":"50,000",
+            "quantity":1,
+            "image":"HONDA.jpg"
+
+        },
+        {
+            "Pro_id":5,
+            "pname":"Ktm",
+            "price":"80,000",
+            "quantity":1,
+            "image":"ktm bike.jpg"
+
+        },
+        {
+            "Pro_id":6,
+            "pname":"OLA-S1",
+            "price":"50,000",
+            "quantity":1,
+            "image":"ola-s1.png"
+
+        },
+        {
+            "Pro_id":7,
+            "pname":"Royal",
+            "price":"40,000",
+            "quantity":1,
+            "image":"royal.png"
+
+        },
+        {
+            "Pro_id":8,
+            "pname":"Tvs",
+            "price":"40,000",
+            "quantity":1,
+            "image":"tvs rider.jpg"
+
+        },
+        {
+            "Pro_id":9,
+            "pname":"TVS-NTORQ",
+            "price":"40,000",
+            "quantity":1,
+            "image":"TVS-NTORQ.jpeg"
+
+        },
+        {
+            "Pro_id":10,
+            "pname":"Yamaha",
+            "price":"40,000",
+            "quantity":1,
+            "image":"yamaha scooter.jpg"
+
+        }
+    ]
+}
